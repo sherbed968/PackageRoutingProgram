@@ -8,3 +8,6 @@ Application that uses a Nearest Neighbor Algorithm to efficiently route the deli
 - Truck Assignment: Displays which truck each package is assigned to
 - Total Mileage Calculation: Displays the total mileage of all delivery routes
 - Hash Map: Packages are stored in a hash map for optimized look-up and management
+
+[Screen Recording 2024-10-05 at 2.22.43 PM.zip](https://github.com/user-attachments/files/17267229/Screen.Recording.2024-10-05.at.2.22.43.PM.zip)</br>
+(Zipped because file was too large to post)
