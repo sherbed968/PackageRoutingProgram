@@ -19,7 +19,7 @@ class Package:
         return "%s, %s, %s, %s, %s, %s, %s, %s, %s" % (self.ID, self.address, self.city, self.state, self.zip,
                                                        self.deadline, self.weight, self.deliveryTime,
                                                        self.status)
-    #Define newStatus
+        
     def newStatus(self, newTime):
         if self.deliveryTime == None:
             self.status = "At the hub - Truck"
