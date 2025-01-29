@@ -1,5 +1,3 @@
-#Author: Dane Herbert
-
 import truck
 import csv
 import datetime
